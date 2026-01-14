@@ -97,6 +97,7 @@ new_df['solar_suitable'].describe()
 <img width="940" height="889" alt="image" src="https://github.com/user-attachments/assets/471beb04-eed5-4d21-a8d3-b2ed4def5fcb" />
 <img width="940" height="438" alt="image" src="https://github.com/user-attachments/assets/25f3f979-fed9-42d6-a370-d0e573f774a0" />
 <img width="940" height="603" alt="image" src="https://github.com/user-attachments/assets/eba4c9fd-f786-4252-aa75-2c5f6d246d44" />
+
 #The significance of the Machine Learning model for data exploration in predicting property suitability for solar energy is used to get accurate results in predicting different types of properties are most suitable to install solar PVs. There is need to provide an intelligent model to detect the property suitability for solar PVs installation.
 1.	The training dataset is given to the machine learning model so that it may be trained on it in order to become a model, and the test dataset is given to it so that it can be tested in order to validate the model. 
 2.	To forecast the rooftop solar suitability, simulations are run using the python programming using a variety of libraries. 
