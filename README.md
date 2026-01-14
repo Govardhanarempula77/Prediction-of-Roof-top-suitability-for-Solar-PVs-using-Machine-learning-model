@@ -95,6 +95,7 @@ new_df['solar_suitable'].describe()
 <img width="940" height="889" alt="image" src="https://github.com/user-attachments/assets/471beb04-eed5-4d21-a8d3-b2ed4def5fcb" />
 # Power BI dasboard
 
+https://github.com/Govardhanarempula77/Prediction-of-Roof-top-suitability-for-Solar-PVs-using-Machine-learning-model/blob/main/Solar_PV_predictiopn%20dashboard.pdf
 
 
 
